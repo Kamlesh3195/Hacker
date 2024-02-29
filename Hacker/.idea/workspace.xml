@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c2b14406-1e30-4bfc-b20e-c01ee80e55ac" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/ArrayAssignement/firstSecondLargestNo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/NonArrayAssignement/oddAndEvent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ArrayAssignement/firstSecondSmallestNo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ArrayAssignement/nthLargestnumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,6 +37,7 @@
     "Application.PalindromeNumber.executor": "Run",
     "Application.fibonacciSeries.executor": "Run",
     "Application.firstSecondLargestNo.executor": "Run",
+    "Application.nthLargestnumber.executor": "Run",
     "Application.numberPrimeOrNot.executor": "Run",
     "Application.primeBetween2Number.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -46,7 +47,7 @@
     "last_opened_file_path": "C:/Kamlesh/GitHub/JavaProject"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.firstSecondLargestNo">
+  <component name="RunManager" selected="Application.nthLargestnumber">
     <configuration name="PalindromeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="NonArrayAssignement.PalindromeNumber" />
       <module name="Hacker" />
@@ -86,6 +87,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="nthLargestnumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayAssignement.nthLargestnumber" />
+      <module name="Hacker" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ArrayAssignement.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="numberPrimeOrNot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="NonArrayAssignement.numberPrimeOrNot" />
       <module name="Hacker" />
@@ -99,26 +113,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="primeBetween2Number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NonArrayAssignement.primeBetween2Number" />
-      <module name="Hacker" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="NonArrayAssignement.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.nthLargestnumber" />
         <item itemvalue="Application.firstSecondLargestNo" />
         <item itemvalue="Application.PalindromeNumber" />
         <item itemvalue="Application.fibonacciSeries" />
         <item itemvalue="Application.numberPrimeOrNot" />
-        <item itemvalue="Application.primeBetween2Number" />
       </list>
     </recent_temporary>
   </component>
