@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c2b14406-1e30-4bfc-b20e-c01ee80e55ac" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/ArrayAssignement/arrangaZeroNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/StringAssignement/removeVowelfromString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/StringAssignement/duplicateCharacter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,6 +34,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.PalindromeNumber.executor": "Run",
+    "Application.duplicateCharacter.executor": "Run",
     "Application.fibonacciSeries.executor": "Run",
     "Application.firstCharUpper.executor": "Run",
     "Application.firstSecondLargestNo.executor": "Run",
@@ -55,9 +55,9 @@
     "last_opened_file_path": "C:/Project/ProjectGitHub/GitHubHacker/Hacker/Hacker/pom.xml"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.removeVowelfromString">
-    <configuration name="firstCharUpper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringAssignement.firstCharUpper" />
+  <component name="RunManager" selected="Application.duplicateCharacter">
+    <configuration name="duplicateCharacter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringAssignement.duplicateCharacter" />
       <module name="Hacker" />
       <extension name="coverage">
         <pattern>
@@ -123,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.duplicateCharacter" />
         <item itemvalue="Application.removeVowelfromString" />
         <item itemvalue="Application.vowelsAndConsonants" />
         <item itemvalue="Application.reverseStrings" />
         <item itemvalue="Application.u2LandL2U" />
-        <item itemvalue="Application.firstCharUpper" />
       </list>
     </recent_temporary>
   </component>
