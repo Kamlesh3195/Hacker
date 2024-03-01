@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c2b14406-1e30-4bfc-b20e-c01ee80e55ac" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/ArrayAssignement/firstSecondSmallestNo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ArrayAssignement/nthLargestnumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ArrayAssignement/sortArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ArrayAssignement/nSmallestNo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ArrayAssignement/nthSmallestNo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/StringAssignement/firstCharUpper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/StringAssignement/firstCharUpper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/ArrayAssignement/nthLargestnumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/ArrayAssignement/nthLargestnumber.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,9 +26,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2d29yk63QuT8n3B2DWwgQkHhrH2" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -36,10 +38,12 @@
   "keyToString": {
     "Application.PalindromeNumber.executor": "Run",
     "Application.fibonacciSeries.executor": "Run",
+    "Application.firstCharUpper.executor": "Run",
     "Application.firstSecondLargestNo.executor": "Run",
     "Application.nthLargestnumber.executor": "Run",
     "Application.numberPrimeOrNot.executor": "Run",
     "Application.primeBetween2Number.executor": "Run",
+    "Application.sortArray.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "HackerBranch",
@@ -47,7 +51,7 @@
     "last_opened_file_path": "C:/Kamlesh/GitHub/JavaProject"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.nthLargestnumber">
+  <component name="RunManager" selected="Application.firstCharUpper">
     <configuration name="PalindromeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="NonArrayAssignement.PalindromeNumber" />
       <module name="Hacker" />
@@ -61,12 +65,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="fibonacciSeries" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NonArrayAssignement.fibonacciSeries" />
+    <configuration name="firstCharUpper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringAssignement.firstCharUpper" />
       <module name="Hacker" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="NonArrayAssignement.*" />
+          <option name="PATTERN" value="StringAssignement.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="numberPrimeOrNot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NonArrayAssignement.numberPrimeOrNot" />
+    <configuration name="sortArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayAssignement.sortArray" />
       <module name="Hacker" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="NonArrayAssignement.*" />
+          <option name="PATTERN" value="ArrayAssignement.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.firstCharUpper" />
+        <item itemvalue="Application.sortArray" />
         <item itemvalue="Application.nthLargestnumber" />
         <item itemvalue="Application.firstSecondLargestNo" />
         <item itemvalue="Application.PalindromeNumber" />
-        <item itemvalue="Application.fibonacciSeries" />
-        <item itemvalue="Application.numberPrimeOrNot" />
       </list>
     </recent_temporary>
   </component>
