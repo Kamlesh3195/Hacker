@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c2b14406-1e30-4bfc-b20e-c01ee80e55ac" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/StringAssignement/u2LandL2U.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/StringAssignement/reverseStrings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/StringAssignement/reverseString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/StringAssignement/reverseWithoutWord.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +40,7 @@
     "Application.nthLargestnumber.executor": "Run",
     "Application.numberPrimeOrNot.executor": "Run",
     "Application.primeBetween2Number.executor": "Run",
+    "Application.reverseStrings.executor": "Run",
     "Application.sortArray.executor": "Run",
     "Application.u2LandL2U.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -48,7 +50,7 @@
     "last_opened_file_path": "C:/Kamlesh/GitHub/JavaProject"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.u2LandL2U">
+  <component name="RunManager" selected="Application.reverseStrings">
     <configuration name="firstCharUpper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="StringAssignement.firstCharUpper" />
       <module name="Hacker" />
@@ -62,8 +64,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="firstSecondLargestNo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArrayAssignement.firstSecondLargestNo" />
+    <configuration name="nthLargestnumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayAssignement.nthLargestnumber" />
       <module name="Hacker" />
       <extension name="coverage">
         <pattern>
@@ -75,12 +77,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="nthLargestnumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArrayAssignement.nthLargestnumber" />
+    <configuration name="reverseStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringAssignement.reverseStrings" />
       <module name="Hacker" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ArrayAssignement.*" />
+          <option name="PATTERN" value="StringAssignement.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.reverseStrings" />
         <item itemvalue="Application.u2LandL2U" />
         <item itemvalue="Application.firstCharUpper" />
         <item itemvalue="Application.sortArray" />
         <item itemvalue="Application.nthLargestnumber" />
-        <item itemvalue="Application.firstSecondLargestNo" />
       </list>
     </recent_temporary>
   </component>
