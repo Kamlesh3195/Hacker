@@ -1,4 +1,4 @@
 package ArrayAssignement;
 
-public class nSmallestNo {
+public class nthSmallestNo {
 }
