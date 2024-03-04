@@ -1,9 +1,5 @@
 package NonArrayAssignement;
-
-import org.w3c.dom.ls.LSOutput;
-
 import java.util.Scanner;
-
 public class PalindromeNumber {
     //121
     public static void main(String[] args) {
