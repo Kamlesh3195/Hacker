@@ -5,8 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c2b14406-1e30-4bfc-b20e-c01ee80e55ac" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/StringAssignement/duplicateCharacter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/NonArrayAssignement/DownPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/NonArrayAssignement/armstrongNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/StringAssignement/insertStringInToAnother.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Te.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Testing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testJava.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/we.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/NonArrayAssignement/PalindromeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/NonArrayAssignement/PalindromeNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/NonArrayAssignement/PalindromeNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/NonArrayAssignement/PalindromeNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/StringAssignement/duplicateCharacter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/StringAssignement/duplicateCharacter.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,19 +42,28 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.DownPattern.executor": "Run",
     "Application.PalindromeNumber.executor": "Run",
+    "Application.Testing.executor": "Run",
+    "Application.a.executor": "Run",
+    "Application.armstrongNumber.executor": "Run",
     "Application.duplicateCharacter.executor": "Run",
     "Application.fibonacciSeries.executor": "Run",
     "Application.firstCharUpper.executor": "Run",
     "Application.firstSecondLargestNo.executor": "Run",
+    "Application.insertStringInToAnother.executor": "Run",
     "Application.nthLargestnumber.executor": "Run",
     "Application.numberPrimeOrNot.executor": "Run",
     "Application.primeBetween2Number.executor": "Run",
     "Application.removeVowelfromString.executor": "Run",
     "Application.reverseStrings.executor": "Run",
     "Application.sortArray.executor": "Run",
+    "Application.testJava.executor": "Run",
     "Application.u2LandL2U.executor": "Run",
     "Application.vowelsAndConsonants.executor": "Run",
+    "Application.we (1).executor": "Run",
+    "Application.we (2).executor": "Run",
+    "Application.we.executor": "Run",
     "Maven.Hacker [clean].executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -55,9 +73,48 @@
     "last_opened_file_path": "C:/Project/ProjectGitHub/GitHubHacker/Hacker/Hacker/pom.xml"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.duplicateCharacter">
-    <configuration name="duplicateCharacter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringAssignement.duplicateCharacter" />
+  <component name="RunManager" selected="Application.insertStringInToAnother">
+    <configuration name="DownPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NonArrayAssignement.DownPattern" />
+      <module name="Hacker" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="NonArrayAssignement.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="a" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NonArrayAssignement.a" />
+      <module name="Hacker" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="NonArrayAssignement.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="armstrongNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NonArrayAssignement.armstrongNumber" />
+      <module name="Hacker" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="NonArrayAssignement.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="insertStringInToAnother" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringAssignement.insertStringInToAnother" />
       <module name="Hacker" />
       <extension name="coverage">
         <pattern>
@@ -69,65 +126,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="removeVowelfromString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringAssignement.removeVowelfromString" />
+    <configuration name="we" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="we" />
       <module name="Hacker" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="StringAssignement.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="reverseStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringAssignement.reverseStrings" />
-      <module name="Hacker" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="StringAssignement.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="u2LandL2U" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringAssignement.u2LandL2U" />
-      <module name="Hacker" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="StringAssignement.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="vowelsAndConsonants" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringAssignement.vowelsAndConsonants" />
-      <module name="Hacker" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="StringAssignement.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.duplicateCharacter" />
-        <item itemvalue="Application.removeVowelfromString" />
-        <item itemvalue="Application.vowelsAndConsonants" />
-        <item itemvalue="Application.reverseStrings" />
-        <item itemvalue="Application.u2LandL2U" />
+        <item itemvalue="Application.insertStringInToAnother" />
+        <item itemvalue="Application.DownPattern" />
+        <item itemvalue="Application.armstrongNumber" />
+        <item itemvalue="Application.a" />
+        <item itemvalue="Application.we" />
       </list>
     </recent_temporary>
   </component>
