@@ -5,17 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c2b14406-1e30-4bfc-b20e-c01ee80e55ac" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/NonArrayAssignement/DownPattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/NonArrayAssignement/armstrongNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/StringAssignement/insertStringInToAnother.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Te.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Testing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testJava.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/we.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/intellipaatAssigment/module2Assignment2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/intellipaatAssigment/module3Assignment1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/intellipaatAssigment/module3Assignment5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/intellipaatAssigment/module4Assignment1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/NonArrayAssignement/PalindromeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/NonArrayAssignement/PalindromeNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/NonArrayAssignement/PalindromeNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/NonArrayAssignement/PalindromeNumber.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/StringAssignement/duplicateCharacter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/StringAssignement/duplicateCharacter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/StringAssignement/twoStringsAreAnagram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/StringAssignement/twoStringsAreAnagram.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +48,10 @@
     "Application.firstCharUpper.executor": "Run",
     "Application.firstSecondLargestNo.executor": "Run",
     "Application.insertStringInToAnother.executor": "Run",
+    "Application.module2Assignment2.executor": "Run",
+    "Application.module3Assignment1.executor": "Run",
+    "Application.module3Assignment5.executor": "Run",
+    "Application.module4Assignment1.executor": "Run",
     "Application.nthLargestnumber.executor": "Run",
     "Application.numberPrimeOrNot.executor": "Run",
     "Application.primeBetween2Number.executor": "Run",
@@ -59,6 +59,7 @@
     "Application.reverseStrings.executor": "Run",
     "Application.sortArray.executor": "Run",
     "Application.testJava.executor": "Run",
+    "Application.twoStringsAreAnagram.executor": "Run",
     "Application.u2LandL2U.executor": "Run",
     "Application.vowelsAndConsonants.executor": "Run",
     "Application.we (1).executor": "Run",
@@ -73,13 +74,18 @@
     "last_opened_file_path": "C:/Project/ProjectGitHub/GitHubHacker/Hacker/Hacker/pom.xml"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.insertStringInToAnother">
-    <configuration name="DownPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NonArrayAssignement.DownPattern" />
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Project\ProjectGitHub\GitHubHacker\Hacker\Hacker\src\test\java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.module4Assignment1">
+    <configuration name="module2Assignment2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="intellipaatAssigment.module2Assignment2" />
       <module name="Hacker" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="NonArrayAssignement.*" />
+          <option name="PATTERN" value="intellipaatAssigment.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="a" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NonArrayAssignement.a" />
+    <configuration name="module3Assignment1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="intellipaatAssigment.module3Assignment1" />
       <module name="Hacker" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="NonArrayAssignement.*" />
+          <option name="PATTERN" value="intellipaatAssigment.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="armstrongNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NonArrayAssignement.armstrongNumber" />
+    <configuration name="module3Assignment5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="intellipaatAssigment.module3Assignment5" />
       <module name="Hacker" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="NonArrayAssignement.*" />
+          <option name="PATTERN" value="intellipaatAssigment.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,8 +119,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="insertStringInToAnother" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringAssignement.insertStringInToAnother" />
+    <configuration name="module4Assignment1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="intellipaatAssigment.module4Assignment1" />
+      <module name="Hacker" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="intellipaatAssigment.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="twoStringsAreAnagram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringAssignement.twoStringsAreAnagram" />
       <module name="Hacker" />
       <extension name="coverage">
         <pattern>
@@ -126,20 +145,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="we" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="we" />
-      <module name="Hacker" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.insertStringInToAnother" />
-        <item itemvalue="Application.DownPattern" />
-        <item itemvalue="Application.armstrongNumber" />
-        <item itemvalue="Application.a" />
-        <item itemvalue="Application.we" />
+        <item itemvalue="Application.module4Assignment1" />
+        <item itemvalue="Application.module3Assignment5" />
+        <item itemvalue="Application.module3Assignment1" />
+        <item itemvalue="Application.module2Assignment2" />
+        <item itemvalue="Application.twoStringsAreAnagram" />
       </list>
     </recent_temporary>
   </component>
