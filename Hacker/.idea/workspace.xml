@@ -5,15 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c2b14406-1e30-4bfc-b20e-c01ee80e55ac" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/StringAssignement/removeConsecutiveCharacters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/StringAssignement/removeSpaceBetweenString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/StringAssignement/sortString.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/StringAssignement/twoStringsAreAnagram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/StringAssignement/twoStringsAreAnagram.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Te.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Te.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/StringAssignement/twoStringsAreAnagram.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/StringAssignement/twoStringsAreAnagram.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Te.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Te.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/intellipaatAssigment/module4Assignment1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/intellipaatAssigment/module4Assignment1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/StringAssignement/removeVowelfromString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/StringAssignement/removeVowelfromString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/testJava.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/StringAssignement/removeVowelfromString.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/StringAssignement/removeVowelfromString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/testJava.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,55 +34,55 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.DownPattern.executor": "Debug",
-    "Application.PalindromeNumber.executor": "Run",
-    "Application.Te.executor": "Run",
-    "Application.Testing.executor": "Run",
-    "Application.a.executor": "Run",
-    "Application.armstrongNumber.executor": "Run",
-    "Application.duplicateCharacter.executor": "Run",
-    "Application.fibonacciSeries.executor": "Run",
-    "Application.firstCharUpper.executor": "Run",
-    "Application.firstSecondLargestNo.executor": "Run",
-    "Application.insertStringInToAnother.executor": "Run",
-    "Application.module2Assignment2.executor": "Run",
-    "Application.module3Assignment1.executor": "Run",
-    "Application.module3Assignment5.executor": "Run",
-    "Application.module4Assignment1.executor": "Run",
-    "Application.newtest.executor": "Debug",
-    "Application.nthLargestnumber.executor": "Run",
-    "Application.numberPrimeOrNot.executor": "Run",
-    "Application.primeBetween2Number.executor": "Run",
-    "Application.removeConsecutiveCharacters.executor": "Run",
-    "Application.removeSpaceBetweenString.executor": "Run",
-    "Application.removeVowelfromString.executor": "Run",
-    "Application.reverseStrings.executor": "Run",
-    "Application.sortArray.executor": "Run",
-    "Application.sortString.executor": "Run",
-    "Application.testJava.executor": "Run",
-    "Application.twoStringsAreAnagram.executor": "Run",
-    "Application.u2LandL2U.executor": "Run",
-    "Application.vowelsAndConsonants.executor": "Run",
-    "Application.we (1).executor": "Run",
-    "Application.we (2).executor": "Run",
-    "Application.we.executor": "Run",
-    "Maven.Hacker [clean].executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "HackerBranch",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Project/ProjectGitHub/GitHubHacker/Hacker/Hacker/pom.xml"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.DownPattern.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.PalindromeNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Te.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Testing.executor&quot;: &quot;Run&quot;,
+    &quot;Application.a.executor&quot;: &quot;Run&quot;,
+    &quot;Application.armstrongNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.duplicateCharacter.executor&quot;: &quot;Run&quot;,
+    &quot;Application.fibonacciSeries.executor&quot;: &quot;Run&quot;,
+    &quot;Application.firstCharUpper.executor&quot;: &quot;Run&quot;,
+    &quot;Application.firstSecondLargestNo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.insertStringInToAnother.executor&quot;: &quot;Run&quot;,
+    &quot;Application.module2Assignment2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.module3Assignment1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.module3Assignment5.executor&quot;: &quot;Run&quot;,
+    &quot;Application.module4Assignment1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.newtest.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.nthLargestnumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.numberPrimeOrNot.executor&quot;: &quot;Run&quot;,
+    &quot;Application.primeBetween2Number.executor&quot;: &quot;Run&quot;,
+    &quot;Application.removeConsecutiveCharacters.executor&quot;: &quot;Run&quot;,
+    &quot;Application.removeSpaceBetweenString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.removeVowelfromString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.reverseStrings.executor&quot;: &quot;Run&quot;,
+    &quot;Application.sortArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.sortString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.testJava.executor&quot;: &quot;Run&quot;,
+    &quot;Application.twoStringsAreAnagram.executor&quot;: &quot;Run&quot;,
+    &quot;Application.u2LandL2U.executor&quot;: &quot;Run&quot;,
+    &quot;Application.vowelsAndConsonants.executor&quot;: &quot;Run&quot;,
+    &quot;Application.we (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.we (2).executor&quot;: &quot;Run&quot;,
+    &quot;Application.we.executor&quot;: &quot;Run&quot;,
+    &quot;Maven.Hacker [clean].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;HackerBranch&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Project/ProjectGitHub/GitHubHacker/Hacker/Hacker/pom.xml&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Project\ProjectGitHub\GitHubHacker\Hacker\Hacker\src\test\java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DownPattern">
+  <component name="RunManager" selected="Application.removeVowelfromString">
     <configuration name="DownPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="NonArrayAssignement.DownPattern" />
       <module name="Hacker" />
@@ -139,8 +135,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="sortString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringAssignement.sortString" />
+    <configuration name="removeVowelfromString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringAssignement.removeVowelfromString" />
       <module name="Hacker" />
       <extension name="coverage">
         <pattern>
@@ -154,11 +150,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.removeVowelfromString" />
         <item itemvalue="Application.DownPattern" />
         <item itemvalue="Application.removeConsecutiveCharacters" />
         <item itemvalue="Application.removeSpaceBetweenString" />
         <item itemvalue="Application.newtest" />
-        <item itemvalue="Application.sortString" />
       </list>
     </recent_temporary>
   </component>

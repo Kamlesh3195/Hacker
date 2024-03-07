@@ -10,7 +10,7 @@ public class removeVowelfromString {
         {
             if(sb.charAt(i)=='a'||sb.charAt(i)=='e'||sb.charAt(i)=='i'||sb.charAt(i)=='o'||sb.charAt(i)=='u')
             {
-                sb.setCharAt(i,' ');
+                sb.setCharAt(i,'#');
             }
         }
         System.out.println(sb.toString());
