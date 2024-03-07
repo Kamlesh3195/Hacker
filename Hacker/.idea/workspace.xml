@@ -5,13 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c2b14406-1e30-4bfc-b20e-c01ee80e55ac" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/intellipaatAssigment/module2Assignment2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/intellipaatAssigment/module3Assignment1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/intellipaatAssigment/module3Assignment5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/intellipaatAssigment/module4Assignment1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/StringAssignement/removeConsecutiveCharacters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/StringAssignement/removeSpaceBetweenString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/StringAssignement/sortString.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/StringAssignement/twoStringsAreAnagram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/StringAssignement/twoStringsAreAnagram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Te.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Te.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/StringAssignement/twoStringsAreAnagram.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/StringAssignement/twoStringsAreAnagram.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Te.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Te.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/intellipaatAssigment/module4Assignment1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/intellipaatAssigment/module4Assignment1.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,8 +40,9 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Application.DownPattern.executor": "Run",
+    "Application.DownPattern.executor": "Debug",
     "Application.PalindromeNumber.executor": "Run",
+    "Application.Te.executor": "Run",
     "Application.Testing.executor": "Run",
     "Application.a.executor": "Run",
     "Application.armstrongNumber.executor": "Run",
@@ -52,12 +55,16 @@
     "Application.module3Assignment1.executor": "Run",
     "Application.module3Assignment5.executor": "Run",
     "Application.module4Assignment1.executor": "Run",
+    "Application.newtest.executor": "Debug",
     "Application.nthLargestnumber.executor": "Run",
     "Application.numberPrimeOrNot.executor": "Run",
     "Application.primeBetween2Number.executor": "Run",
+    "Application.removeConsecutiveCharacters.executor": "Run",
+    "Application.removeSpaceBetweenString.executor": "Run",
     "Application.removeVowelfromString.executor": "Run",
     "Application.reverseStrings.executor": "Run",
     "Application.sortArray.executor": "Run",
+    "Application.sortString.executor": "Run",
     "Application.testJava.executor": "Run",
     "Application.twoStringsAreAnagram.executor": "Run",
     "Application.u2LandL2U.executor": "Run",
@@ -79,13 +86,13 @@
       <recent name="C:\Project\ProjectGitHub\GitHubHacker\Hacker\Hacker\src\test\java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.module4Assignment1">
-    <configuration name="module2Assignment2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="intellipaatAssigment.module2Assignment2" />
+  <component name="RunManager" selected="Application.DownPattern">
+    <configuration name="DownPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NonArrayAssignement.DownPattern" />
       <module name="Hacker" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="intellipaatAssigment.*" />
+          <option name="PATTERN" value="NonArrayAssignement.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="module3Assignment1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="intellipaatAssigment.module3Assignment1" />
+    <configuration name="newtest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringAssignement.newtest" />
       <module name="Hacker" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="intellipaatAssigment.*" />
+          <option name="PATTERN" value="StringAssignement.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,12 +113,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="module3Assignment5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="intellipaatAssigment.module3Assignment5" />
+    <configuration name="removeConsecutiveCharacters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringAssignement.removeConsecutiveCharacters" />
       <module name="Hacker" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="intellipaatAssigment.*" />
+          <option name="PATTERN" value="StringAssignement.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,12 +126,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="module4Assignment1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="intellipaatAssigment.module4Assignment1" />
+    <configuration name="removeSpaceBetweenString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringAssignement.removeSpaceBetweenString" />
       <module name="Hacker" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="intellipaatAssigment.*" />
+          <option name="PATTERN" value="StringAssignement.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,8 +139,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="twoStringsAreAnagram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringAssignement.twoStringsAreAnagram" />
+    <configuration name="sortString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringAssignement.sortString" />
       <module name="Hacker" />
       <extension name="coverage">
         <pattern>
@@ -147,11 +154,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.module4Assignment1" />
-        <item itemvalue="Application.module3Assignment5" />
-        <item itemvalue="Application.module3Assignment1" />
-        <item itemvalue="Application.module2Assignment2" />
-        <item itemvalue="Application.twoStringsAreAnagram" />
+        <item itemvalue="Application.DownPattern" />
+        <item itemvalue="Application.removeConsecutiveCharacters" />
+        <item itemvalue="Application.removeSpaceBetweenString" />
+        <item itemvalue="Application.newtest" />
+        <item itemvalue="Application.sortString" />
       </list>
     </recent_temporary>
   </component>
@@ -172,5 +179,31 @@
       <updated>1709195567444</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/NonArrayAssignement/primeBetween2Number.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/NonArrayAssignement/primeBetween2Number.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/NonArrayAssignement/primeBetween2Number.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/NonArrayAssignement/primeBetween2Number.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
