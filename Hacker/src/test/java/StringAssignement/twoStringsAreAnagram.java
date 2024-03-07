@@ -12,9 +12,10 @@ public class twoStringsAreAnagram
     public static void main(String[] args)
     {
         String str1 = "abcdw";
-        String str2 = "wbubc";
-        int flag = 0;
+        String str2 = "wbadcw";
+        String flag;
         Map<Character,Integer> hm = new HashMap<>();
+
         if(str1.length() == str2.length()) {
             for (int i = 0; i < str1.length(); i++) {
                 if (hm.containsKey(str1.charAt(i))) {
@@ -22,29 +23,27 @@ public class twoStringsAreAnagram
                 } else {
                     hm.put(str1.charAt(i), 1);
                 }
-
             }
             for (int i = 0; i < str2.length(); i++) {
                 if (hm.containsKey(str2.charAt(i))) {
                     hm.put(str2.charAt(i), hm.get(str2.charAt(i)) - 1);
                 }
-
             }
-            Set<Character> keys = hm.keySet();
-            for (Character q : keys) {
-                if (hm.get(q) != 0) {
-                    //System.out.println("Two string are anagram of each other");
-                    flag ++;
+            boolean areAnagrams = true;
+            for (int count : hm.values()) {
+                if (count != 0) {
+                    areAnagrams = false;
+                    break;
                 }
-
             }
-
-
-            if (flag > 0) {
-                System.out.println("Two string are m anagram of each other");
+            if (areAnagrams) {
+                System.out.println("Two strings are anagrams of each other");
             } else {
-                System.out.println("Two string are  anagram of each other");
+                System.out.println("Two strings are not anagrams of each other");
             }
+
+
+
         }
         else
         {
