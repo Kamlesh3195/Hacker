@@ -2,7 +2,7 @@ package NonArrayAssignement;
 
 public class numberPrimeOrNot {
     public static void main(String[] args) {
-        int number = 7;
+        int number = 8;
         int count = 0;
         for(int i=2;i<=number-1;i++) {
             if (number % i == 0) {
